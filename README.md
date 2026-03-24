@@ -83,13 +83,16 @@ Customer churn is a critical challenge for subscription-based businesses, direct
 ---
 
 ## Project Structure
+
+<pre>
 .
 ├── notebook.ipynb        # Full ML pipeline (EDA, preprocessing, modeling)
 ├── app.py                # Streamlit application
 ├── model.pkl             # Trained Logistic Regression model
 ├── scaler.pkl            # Feature scaler
 ├── features.pkl          # Feature schema for inference consistency
-├── README.md             # Project documentation
+└── README.md             # Project documentation
+</pre>
 
 ---
 
